@@ -1,5 +1,5 @@
 # EMproteinSeq
-Running EM algorithm to group protein sequences
+EM algorithm to group protein sequences
 
 # Description
 Grouping protein sequences by running EM algorithm.
