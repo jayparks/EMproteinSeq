@@ -5,7 +5,7 @@ Running EM algorithm to group protein sequences
 Grouping protein sequences by running EM algorithm.
 
 # Usage instruction
-Sample input running script : <code> python run_em.py -i subseqs10.txt </code>
+Running script using sample input : <code> python run_em.py -i subseqs10.txt </code>
 * --input,     -i : input file containing protein sequences
 * --seqlen,    -l : Length of sequences to use, (default: length of actual input sequence)
 * --numfamily, -nf: Number of groups or families (default: 5)
