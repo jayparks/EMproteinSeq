@@ -10,3 +10,7 @@ Grouping protein sequences by running EM algorithm.
 * --numfamily, -nf: Number of groups or families (default: 5)
 * --iters,     -ii: Number of iterations to run (default: 100)
 * --savefreq,  -sf: Save frequency of algorithm results (default: 10)
+
+# Running demos
+Sample running script: outputs class_label / softmembership
+* python run_em.py -i subseqs10.txt
